@@ -1,0 +1,30 @@
+#a1{
+    background-color: khaki;
+}
+#a2{
+    background-color: lightslategrey;
+}
+#a3{
+    background-color: cyan;
+}
+.one{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    /* padding: 50px;
+    border: 20px solid brown;
+    margin: 50px; */
+    display: inline-block;
+}
+.two{
+    height: 200px;
+    width: 300px;
+    background-color: indigo;
+    display: inline-block;
+}
+.three{
+    height: 200px;
+    width: 300px;
+    background-color: green;
+    display: inline-block;
+}
